@@ -4,8 +4,10 @@
 A Python package that allows users to view and analyze Excel sheets through a GUI.
 
 ## Installation
+pip install MetaboConverter
+
 ## Usage
 
 ```python
-import excel_sheet_viewer as pk
+import MetaboConverter as pk
 pk.runApp()

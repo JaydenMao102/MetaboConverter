@@ -21,7 +21,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your_username/excel_sheet_viewer"
+Homepage = "https://github.com/JaydenMao102/MetaboConverter.git"
 
 [tool.hatch.metadata]
 license = "MIT License"

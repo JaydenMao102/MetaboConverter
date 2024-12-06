@@ -1,6 +1,6 @@
 # MetaboConverter
 
-A Python package that allows users to view and analyze Excel sheets through a GUI.
+A Python package that allows users to view and analyze Excel sheets through a GUI. Please check files under Docs folder for more information
 
 ## Installation
 Make sure your system has python installed, to check, open terminal, and type

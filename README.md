@@ -20,7 +20,7 @@ In terminal, type
 ```bash
 python
 ```
-then type after >>>
+then copy the following after '>>>'
 ```python
 import MetaboConverter as pk
 pk.runApp()

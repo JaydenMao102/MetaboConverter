@@ -1,9 +1,0 @@
-README.md
-setup.py
-MetaboConverter/__init__.py
-MetaboConverter/main.py
-MetaboConverter.egg-info/PKG-INFO
-MetaboConverter.egg-info/SOURCES.txt
-MetaboConverter.egg-info/dependency_links.txt
-MetaboConverter.egg-info/requires.txt
-MetaboConverter.egg-info/top_level.txt

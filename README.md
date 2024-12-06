@@ -7,7 +7,9 @@ Make sure your system has python installed, to check, open terminal, and type
 ```bash
 python
 ```
-To install, type the following in terminal
+Please visit https://www.python.org/ for more information
+
+To install this package, type the following in terminal
 ```bash
 pip install MetaboConverter
 
